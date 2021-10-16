@@ -1,0 +1,31 @@
+[RemoteTestNG] detected TestNG version 7.4.0
+PASSED: sumOfNumbers
+PASSED: returnsValue
+PASSED: returnsZero
+PASSED: negativeInputReturnsException
+PASSED: twoNumbersNewLineDelimiterReturnSum
+
+===============================================
+    Default test
+    Tests run: 5, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 5, Passes: 5, Failures: 0, Skips: 0
+===============================================
+
+[RemoteTestNG] detected TestNG version 7.4.0
+PASSED: negativeInputReturnsException
+
+===============================================
+    Default test
+    Tests run: 1, Failures: 0, Skips: 0
+===============================================
+
+
+===============================================
+Default suite
+Total tests run: 1, Passes: 1, Failures: 0, Skips: 0
+===============================================
